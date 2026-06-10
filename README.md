@@ -78,7 +78,7 @@ The project covers execution, discovery, persistence, account manipulation, priv
 * Domain Admins Group Modification
 * PsExec-style Remote Execution
 
-[View Project 001 – Operation Blackout](LINK_DO_PROJETO_AQUI)
+[View Project 001 – Operation Blackout](Project-001-Operation-Blackout)
 
 ---
 
