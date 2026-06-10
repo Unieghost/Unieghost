@@ -78,7 +78,7 @@ The project covers execution, discovery, persistence, account manipulation, priv
 * Domain Admins Group Modification
 * PsExec-style Remote Execution
 
-[View Project 001 – Operation Blackout](Unieghost/Project-001-Operation-Blackout)
+[View Project 001 – Operation Blackout]([Unieghost](https://github.com/Unieghost/Project-001-Operation-Blackout)/Project-001-Operation-Blackout)
 
 ---
 
