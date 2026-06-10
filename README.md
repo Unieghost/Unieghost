@@ -46,6 +46,3 @@ A personal Security Operations Center laboratory focused on:
 - Incident 001 – PsExec Lateral Movement Simulation
 - Incident 002 – Brute Force Detection (In Progress)
 
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/fernando-andrade-soc
