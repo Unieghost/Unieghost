@@ -46,6 +46,8 @@ This series helped me build the foundation for alert triage, evidence collection
 
 These incidents served as the building blocks for larger Purple Team projects by validating individual detection techniques before combining them into a full attack chain.
 
+[View Incident Series – SOC Homelab](https://github.com/Unieghost/SOC-Homelab)
+
 ---
 
 ## Featured Project
